@@ -59,3 +59,11 @@ Node 22 is required (`.nvmrc` included).
 - Add your real `public/resume.pdf` so the resume download works.
 - Replace `marce@example.com` in `app/contact/page.tsx`.
 - If you ever move from user-site repo to project repo, `next.config.mjs` already handles base path in CI.
+# Marce Romero - Portfolio website
+#
+#
+#
+## Deployed Site
+[marce-romerog.github.io](https://marce-romerog.github.io)
+
+2026
